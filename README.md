@@ -1,4 +1,4 @@
-## 线性动态电路可视化分析的研究实验报告
+## 线性动态电路可视化分析的研究
 
 
 >  !(预览版链接)(https://magicwenli.github.io/circuit_visualization/circuit_visualization.html)
